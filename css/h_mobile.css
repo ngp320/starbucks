@@ -1,0 +1,11 @@
+#newpp .banner{
+	width: 100%;
+}
+#newpp .banner .img1{
+	display: none;
+}
+#newpp .banner .img2{
+	width: 100%;
+	height: 100%;
+	display: block;
+}
